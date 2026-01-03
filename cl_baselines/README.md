@@ -17,10 +17,10 @@ The implementations of the classical baselines in this directory are adapted fro
 To run baselines, please try:
 
 ```shell
-python cl_baselines/run_baseline.py --model optimal       # Linear Programming
-python cl_baselines/run_baseline.py --model oblivious     # Oblivious Routing
-python cl_baselines/run_baseline.py --model cope          # COPE
-python cl_baselines/run_baseline.py --model predte        # Linear Programming (Predicted)
+python cl_baselines/run_baseline.py --method optimal       # Linear Programming
+python cl_baselines/run_baseline.py --method oblivious     # Oblivious Routing
+python cl_baselines/run_baseline.py --method cope          # COPE
+python cl_baselines/run_baseline.py --method predte        # Linear Programming (Predicted)
 ```
 
 For more arguments, please refer to the `run_baseline.py` script.
