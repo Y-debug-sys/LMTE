@@ -1,0 +1,17 @@
+# Core ML
+transformers>=4.30.0
+accelerate>=1.0.0
+deepspeed>=0.16.0
+sentencepiece==0.2.0
+
+# PyTorch ecosystem (installed with CUDA support separately)
+torch>=2.7.0
+torch_geometric>=2.6.0
+
+# Scientific & graph
+pandas>=2.0.0
+networkx>=3.0.0
+scipy>=1.10.0
+
+# Optimizer
+gurobipy>=11.0.0

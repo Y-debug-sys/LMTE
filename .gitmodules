@@ -1,0 +1,6 @@
+[submodule "ml_baselines/DOTE"]
+	path = ml_baselines/DOTE
+	url = https://github.com/PredWanTE/DOTE
+[submodule "ml_baselines/FIGRET"]
+	path = ml_baselines/FIGRET
+	url = https://github.com/FIGRET/figret
