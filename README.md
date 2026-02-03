@@ -133,7 +133,6 @@ If you find this work useful for your research, please cite:
   journal={arXiv preprint arXiv:2602.00941},
   year={2026}
 }
-}
 ```
 
 ## ❓ Q & A
