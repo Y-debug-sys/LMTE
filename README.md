@@ -5,6 +5,8 @@
         <img src="https://img.shields.io/github/stars/Y-debug-sys/LMTE.svg" /></a>
     <a href= "https://github.com/Y-debug-sys/LMTE/network/">
         <img src="https://img.shields.io/github/forks/Y-debug-sys/LMTE.svg" /></a>
+    <a href= "http://arxiv.org/abs/2602.00941">
+        <img src="https://img.shields.io/badge/Paper-arXiv-red" /></a>
     <a href= "https://huggingface.co/meta-llama/">
         <img src="https://img.shields.io/badge/Hugging%20Face-LLaMA3-teal" /></a>
     <a href= "https://www.python.org/downloads/release/python-31019/">
@@ -125,12 +127,12 @@ For any technical questions about the paper, please contact [Xinyu Yuan](mailto:
 If you find this work useful for your research, please cite:
 
 ```bibtex
-@inproceedings{yuan2026lmte,
+@article{yuan2026putting,
   title={LMTE: Putting the ``Reasoning'' into WAN Traffic Engineering with Language Models},
   author={Yuan, Xinyu and Qiao, Yan and Wang, Zonghui and Li, Meng and Chen, Wenzhi},
-  booktitle={IEEE INFOCOM 2026-IEEE Conference on Computer Communications},
-  year={2026},
-  organization={IEEE}
+  journal={arXiv preprint arXiv:2602.00941},
+  year={2026}
+}
 }
 ```
 
